@@ -19,7 +19,7 @@ As of now, you can use it by:
 
 Released under the MIT license.
 
-Copyright, 2018, by [Your Name](Your Website).
+Copyright, 2018, by [k1tsu]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
